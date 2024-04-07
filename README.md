@@ -1,3 +1,5 @@
+# 老电视支持
+Android 4.4
 # Box
 
 === Source Code - Editing the app default settings ===
